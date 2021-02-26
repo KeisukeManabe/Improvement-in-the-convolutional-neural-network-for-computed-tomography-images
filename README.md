@@ -1,4 +1,4 @@
-Improvement in the Convolutional Neural Network for Computed Tomography Images
+# Improvement in the Convolutional Neural Network for Computed Tomography Images
 
 上記の論文で作成したモデルの中で最も精度が高かったモデルのコードをアップしました。
 
